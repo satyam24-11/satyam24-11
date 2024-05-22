@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">A Tech enthusiast from India.</h3>
+<h3 align="center">A Tech & Web enthusiast from India.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam24-11&label=Profile%20views&color=0e75b6&style=flat" alt="satyam24-11" /> </p>
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning toying with **Web technology Framework.**
 
 - 📫 How to reach me **satya0608k@gmail.com**
 
