@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam24-11&label=Profile%20views&color=0e75b6&style=flat" alt="satyam24-11" /> </p>
 
 - 🌱 I’m currently learning and toying with **Web technology Framework.**
-- I'm currently working on **a JavaScript based project.**
+- I'm currently working on **a JavaScript-based project.**
 - I'm looking for help in **JavaScript frameworks.**
 - Ask me about **Data Structure and Algorithms.**
 - - 📫 How to reach me **satya0608k@gmail.com**
